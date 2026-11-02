@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "Aatrox",
+    "nombre": "Aatrox",
+    "titulo": "la Espada de los Oscuros",
+    "clases": [
+      "Fighter"
+    ],
+    "recurso": "Pozo sangriento",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Aatrox.png"
+  },
+  {
+    "id": "Ahri",
+    "nombre": "Ahri",
+    "titulo": "La Mujer Zorro de nueve Colas",
+    "clases": [
+      "Mage",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ahri.png"
+  },
+  {
+    "id": "Akali",
+    "nombre": "Akali",
+    "titulo": "la Asesina Sigilosa",
+    "clases": [
+      "Assassin"
+    ],
+    "recurso": "Energía",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Akali.png"
+  },
+  {
+    "id": "Akshan",
+    "nombre": "Akshan",
+    "titulo": "el Centinela Rebelde",
+    "clases": [
+      "Marksman",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Akshan.png"
+  },
+  {
+    "id": "Alistar",
+    "nombre": "Alistar",
+    "titulo": "El Minotauro",
+    "clases": [
+      "Tank",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Alistar.png"
+  },
+  {
+    "id": "Ambessa",
+    "nombre": "Ambessa",
+    "titulo": "La Matriarca de la Guerra",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Energía",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ambessa.png"
+  },
+  {
+    "id": "Amumu",
+    "nombre": "Amumu",
+    "titulo": "La Momia Triste",
+    "clases": [
+      "Tank",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Amumu.png"
+  },
+  {
+    "id": "Anivia",
+    "nombre": "Anivia",
+    "titulo": "La Criofénix",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Anivia.png"
+  },
+  {
+    "id": "Annie",
+    "nombre": "Annie",
+    "titulo": "La Hija de la Oscuridad",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Annie.png"
+  },
+  {
+    "id": "Aphelios",
+    "nombre": "Aphelios",
+    "titulo": "el Arma de los Fieles",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Aphelios.png"
+  },
+  {
+    "id": "Ashe",
+    "nombre": "Ashe",
+    "titulo": "La Arquera de Hielo",
+    "clases": [
+      "Marksman",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ashe.png"
+  },
+  {
+    "id": "AurelionSol",
+    "nombre": "Aurelion Sol",
+    "titulo": "El Forjador de Estrellas",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/AurelionSol.png"
+  },
+  {
+    "id": "Aurora",
+    "nombre": "Aurora",
+    "titulo": "la Bruja entre Mundos",
+    "clases": [
+      "Mage",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Aurora.png"
+  },
+  {
+    "id": "Azir",
+    "nombre": "Azir",
+    "titulo": "El Emperador de las Arenas",
+    "clases": [
+      "Mage",
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Azir.png"
+  },
+  {
+    "id": "Bard",
+    "nombre": "Bardo",
+    "titulo": "El Guardián Errante",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Bard.png"
+  },
+  {
+    "id": "Belveth",
+    "nombre": "Bel'Veth",
+    "titulo": "la Emperatriz del Vacío",
+    "clases": [
+      "Fighter"
+    ],
+    "recurso": "",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Belveth.png"
+  },
+  {
+    "id": "Blitzcrank",
+    "nombre": "Blitzcrank",
+    "titulo": "El Gran Gólem de Vapor",
+    "clases": [
+      "Tank",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Blitzcrank.png"
+  },
+  {
+    "id": "Brand",
+    "nombre": "Brand",
+    "titulo": "La Venganza Ardiente",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Brand.png"
+  },
+  {
+    "id": "Braum",
+    "nombre": "Braum",
+    "titulo": "El Corazón de Freljord",
+    "clases": [
+      "Tank",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Braum.png"
+  },
+  {
+    "id": "Briar",
+    "nombre": "Briar",
+    "titulo": "la Gula Confinada",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Furia",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Briar.png"
+  },
+  {
+    "id": "Caitlyn",
+    "nombre": "Caitlyn",
+    "titulo": "La Sheriff de Piltover",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Caitlyn.png"
+  },
+  {
+    "id": "Camille",
+    "nombre": "Camille",
+    "titulo": "la Sombra de Acero",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Camille.png"
+  },
+  {
+    "id": "Cassiopeia",
+    "nombre": "Cassiopeia",
+    "titulo": "El Abrazo de la Serpiente",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Cassiopeia.png"
+  },
+  {
+    "id": "Chogath",
+    "nombre": "Cho'Gath",
+    "titulo": "El Terror del Vacío",
+    "clases": [
+      "Tank",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Chogath.png"
+  },
+  {
+    "id": "Corki",
+    "nombre": "Corki",
+    "titulo": "El Bombardero Osado",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Corki.png"
+  },
+  {
+    "id": "Darius",
+    "nombre": "Darius",
+    "titulo": "La Mano de Noxus",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Darius.png"
+  },
+  {
+    "id": "Diana",
+    "nombre": "Diana",
+    "titulo": "El Desdén de la Luna",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Diana.png"
+  },
+  {
+    "id": "Draven",
+    "nombre": "Draven",
+    "titulo": "El Ejecutor Glorioso",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Draven.png"
+  },
+  {
+    "id": "DrMundo",
+    "nombre": "Dr. Mundo",
+    "titulo": "El Loco de Zaun",
+    "clases": [
+      "Tank",
+      "Fighter"
+    ],
+    "recurso": "Nada",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/DrMundo.png"
+  },
+  {
+    "id": "Ekko",
+    "nombre": "Ekko",
+    "titulo": "El Chico que Quebró el Tiempo",
+    "clases": [
+      "Assassin",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ekko.png"
+  },
+  {
+    "id": "Elise",
+    "nombre": "Elise",
+    "titulo": "La Reina de las Arañas",
+    "clases": [
+      "Assassin",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Elise.png"
+  },
+  {
+    "id": "Evelynn",
+    "nombre": "Evelynn",
+    "titulo": "El Abrazo Agónico",
+    "clases": [
+      "Assassin",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Evelynn.png"
+  },
+  {
+    "id": "Ezreal",
+    "nombre": "Ezreal",
+    "titulo": "El Explorador Pródigo",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ezreal.png"
+  },
+  {
+    "id": "Fiddlesticks",
+    "nombre": "Fiddlesticks",
+    "titulo": "el Terror Ancestral",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Fiddlesticks.png"
+  },
+  {
+    "id": "Fiora",
+    "nombre": "Fiora",
+    "titulo": "La Estocada Excelsa",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Fiora.png"
+  },
+  {
+    "id": "Fizz",
+    "nombre": "Fizz",
+    "titulo": "El Gamberro de las Mareas",
+    "clases": [
+      "Assassin",
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Fizz.png"
+  },
+  {
+    "id": "Galio",
+    "nombre": "Galio",
+    "titulo": "el Coloso",
+    "clases": [
+      "Tank",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Galio.png"
+  },
+  {
+    "id": "Gangplank",
+    "nombre": "Gangplank",
+    "titulo": "El Azote de los Mares",
+    "clases": [
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gangplank.png"
+  },
+  {
+    "id": "Garen",
+    "nombre": "Garen",
+    "titulo": "El Poder de Demacia",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Nada",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Garen.png"
+  },
+  {
+    "id": "Gnar",
+    "nombre": "Gnar",
+    "titulo": "El Eslabón Perdido",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Furia",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gnar.png"
+  },
+  {
+    "id": "Gragas",
+    "nombre": "Gragas",
+    "titulo": "El Camorrista",
+    "clases": [
+      "Fighter",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gragas.png"
+  },
+  {
+    "id": "Graves",
+    "nombre": "Graves",
+    "titulo": "El Forajido",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Graves.png"
+  },
+  {
+    "id": "Gwen",
+    "nombre": "Gwen",
+    "titulo": "La Costurera Consagrada",
+    "clases": [
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gwen.png"
+  },
+  {
+    "id": "Hecarim",
+    "nombre": "Hecarim",
+    "titulo": "La Sombra de la Guerra",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Hecarim.png"
+  },
+  {
+    "id": "Heimerdinger",
+    "nombre": "Heimerdinger",
+    "titulo": "El Inventor Venerado",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Heimerdinger.png"
+  },
+  {
+    "id": "Hwei",
+    "nombre": "Hwei",
+    "titulo": "el Visionario",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Hwei.png"
+  },
+  {
+    "id": "Illaoi",
+    "nombre": "Illaoi",
+    "titulo": "La Sacerdotisa del Kraken",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Illaoi.png"
+  },
+  {
+    "id": "Irelia",
+    "nombre": "Irelia",
+    "titulo": "la Danza de las Cuchillas",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Irelia.png"
+  },
+  {
+    "id": "Ivern",
+    "nombre": "Ivern",
+    "titulo": "El Padre Arborescente",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ivern.png"
+  },
+  {
+    "id": "Janna",
+    "nombre": "Janna",
+    "titulo": "La Furia de la Tormenta",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Janna.png"
+  },
+  {
+    "id": "JarvanIV",
+    "nombre": "Jarvan IV",
+    "titulo": "El Ejemplo de Demacia",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/JarvanIV.png"
+  },
+  {
+    "id": "Jax",
+    "nombre": "Jax",
+    "titulo": "El Maestro de Armas",
+    "clases": [
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jax.png"
+  },
+  {
+    "id": "Jayce",
+    "nombre": "Jayce",
+    "titulo": "El Defensor del Mañana",
+    "clases": [
+      "Fighter",
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jayce.png"
+  },
+  {
+    "id": "Jhin",
+    "nombre": "Jhin",
+    "titulo": "El Virtuoso",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jhin.png"
+  },
+  {
+    "id": "Jinx",
+    "nombre": "Jinx",
+    "titulo": "La Bala Perdida",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jinx.png"
+  },
+  {
+    "id": "Kaisa",
+    "nombre": "Kai'Sa",
+    "titulo": "La Hija del Vacío",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kaisa.png"
+  },
+  {
+    "id": "Kalista",
+    "nombre": "Kalista",
+    "titulo": "El Espíritu de la Venganza",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kalista.png"
+  },
+  {
+    "id": "Karma",
+    "nombre": "Karma",
+    "titulo": "La Iluminada",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Karma.png"
+  },
+  {
+    "id": "Karthus",
+    "nombre": "Karthus",
+    "titulo": "La Voz de la Muerte",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Karthus.png"
+  },
+  {
+    "id": "Kassadin",
+    "nombre": "Kassadin",
+    "titulo": "El Caminante del Vacío",
+    "clases": [
+      "Assassin",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kassadin.png"
+  },
+  {
+    "id": "Katarina",
+    "nombre": "Katarina",
+    "titulo": "La Cuchilla Siniestra",
+    "clases": [
+      "Assassin",
+      "Mage"
+    ],
+    "recurso": "Nada",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Katarina.png"
+  },
+  {
+    "id": "Kayle",
+    "nombre": "Kayle",
+    "titulo": "la Justa",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kayle.png"
+  },
+  {
+    "id": "Kayn",
+    "nombre": "Kayn",
+    "titulo": "la Guadaña de las Sombras",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kayn.png"
+  },
+  {
+    "id": "Kennen",
+    "nombre": "Kennen",
+    "titulo": "El Corazón de la Tempestad",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Energía",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kennen.png"
+  },
+  {
+    "id": "Khazix",
+    "nombre": "Kha'Zix",
+    "titulo": "El Saqueador del Vacío",
+    "clases": [
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Khazix.png"
+  },
+  {
+    "id": "Kindred",
+    "nombre": "Kindred",
+    "titulo": "Los Cazadores Eternos",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kindred.png"
+  },
+  {
+    "id": "Kled",
+    "nombre": "Kled",
+    "titulo": "El Jinete Cascarrabias",
+    "clases": [
+      "Fighter"
+    ],
+    "recurso": "Coraje",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kled.png"
+  },
+  {
+    "id": "KogMaw",
+    "nombre": "Kog'Maw",
+    "titulo": "La Boca del Abismo",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/KogMaw.png"
+  },
+  {
+    "id": "KSante",
+    "nombre": "K'Sante",
+    "titulo": "el Orgullo de Nazumah",
+    "clases": [
+      "Tank",
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/KSante.png"
+  },
+  {
+    "id": "Leblanc",
+    "nombre": "LeBlanc",
+    "titulo": "La Embaucadora",
+    "clases": [
+      "Assassin",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Leblanc.png"
+  },
+  {
+    "id": "LeeSin",
+    "nombre": "Lee Sin",
+    "titulo": "El Monje Ciego",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Energía",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/LeeSin.png"
+  },
+  {
+    "id": "Leona",
+    "nombre": "Leona",
+    "titulo": "El Amanecer Radiante",
+    "clases": [
+      "Tank",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Leona.png"
+  },
+  {
+    "id": "Lillia",
+    "nombre": "Lillia",
+    "titulo": "el Tímido Florecer",
+    "clases": [
+      "Fighter",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lillia.png"
+  },
+  {
+    "id": "Lissandra",
+    "nombre": "Lissandra",
+    "titulo": "La Bruja de Hielo",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lissandra.png"
+  },
+  {
+    "id": "Locke",
+    "nombre": "Locke",
+    "titulo": "el Exorcista Ceniciento",
+    "clases": [
+      "Assassin",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Locke.png"
+  },
+  {
+    "id": "Lucian",
+    "nombre": "Lucian",
+    "titulo": "El Destello Purificador",
+    "clases": [
+      "Marksman",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lucian.png"
+  },
+  {
+    "id": "Lulu",
+    "nombre": "Lulu",
+    "titulo": "El Hada Hechicera",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lulu.png"
+  },
+  {
+    "id": "Lux",
+    "nombre": "Lux",
+    "titulo": "La Dama Luminosa",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lux.png"
+  },
+  {
+    "id": "Malphite",
+    "nombre": "Malphite",
+    "titulo": "El Fragmento del Monolito",
+    "clases": [
+      "Tank",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Malphite.png"
+  },
+  {
+    "id": "Malzahar",
+    "nombre": "Malzahar",
+    "titulo": "El Profeta del Vacío",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Malzahar.png"
+  },
+  {
+    "id": "Maokai",
+    "nombre": "Maokai",
+    "titulo": "El Treant Retorcido",
+    "clases": [
+      "Tank",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Maokai.png"
+  },
+  {
+    "id": "MasterYi",
+    "nombre": "Maestro Yi",
+    "titulo": "El Espadachín Wuju",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/MasterYi.png"
+  },
+  {
+    "id": "Mel",
+    "nombre": "Mel",
+    "titulo": "el Reflejo del Alma",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Mel.png"
+  },
+  {
+    "id": "Milio",
+    "nombre": "Milio",
+    "titulo": "la Llama Serena",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Milio.png"
+  },
+  {
+    "id": "MissFortune",
+    "nombre": "Miss Fortune",
+    "titulo": "La Cazarrecompensas",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/MissFortune.png"
+  },
+  {
+    "id": "MonkeyKing",
+    "nombre": "Wukong",
+    "titulo": "El Rey Mono",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/MonkeyKing.png"
+  },
+  {
+    "id": "Mordekaiser",
+    "nombre": "Mordekaiser",
+    "titulo": "La Pesadilla de Hierro",
+    "clases": [
+      "Fighter",
+      "Mage"
+    ],
+    "recurso": "Escudo",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Mordekaiser.png"
+  },
+  {
+    "id": "Morgana",
+    "nombre": "Morgana",
+    "titulo": "la Caída",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Morgana.png"
+  },
+  {
+    "id": "Naafiri",
+    "nombre": "Naafiri",
+    "titulo": "Sabuesa de las Mil Dentelladas",
+    "clases": [
+      "Assassin",
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Naafiri.png"
+  },
+  {
+    "id": "Nami",
+    "nombre": "Nami",
+    "titulo": "La Invocadora de Mareas",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nami.png"
+  },
+  {
+    "id": "Nasus",
+    "nombre": "Nasus",
+    "titulo": "El Guardián de las Arenas",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nasus.png"
+  },
+  {
+    "id": "Nautilus",
+    "nombre": "Nautilus",
+    "titulo": "El Titán Abisal",
+    "clases": [
+      "Tank",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nautilus.png"
+  },
+  {
+    "id": "Neeko",
+    "nombre": "Neeko",
+    "titulo": "la Camaleona Curiosa",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Neeko.png"
+  },
+  {
+    "id": "Nidalee",
+    "nombre": "Nidalee",
+    "titulo": "La Cazadora Bestial",
+    "clases": [
+      "Assassin",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nidalee.png"
+  },
+  {
+    "id": "Nilah",
+    "nombre": "Nilah",
+    "titulo": "la Alegría Desatada",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nilah.png"
+  },
+  {
+    "id": "Nocturne",
+    "nombre": "Nocturne",
+    "titulo": "La Pesadilla Eterna",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nocturne.png"
+  },
+  {
+    "id": "Nunu",
+    "nombre": "Nunu y Willump",
+    "titulo": "Un Niño y su Yeti",
+    "clases": [
+      "Tank",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nunu.png"
+  },
+  {
+    "id": "Olaf",
+    "nombre": "Olaf",
+    "titulo": "El Berserker",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Olaf.png"
+  },
+  {
+    "id": "Orianna",
+    "nombre": "Orianna",
+    "titulo": "La Dama Mecánica",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Orianna.png"
+  },
+  {
+    "id": "Ornn",
+    "nombre": "Ornn",
+    "titulo": "Las Llamas de la Forja",
+    "clases": [
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ornn.png"
+  },
+  {
+    "id": "Pantheon",
+    "nombre": "Pantheon",
+    "titulo": "la Lanza Inquebrantable",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Pantheon.png"
+  },
+  {
+    "id": "Poppy",
+    "nombre": "Poppy",
+    "titulo": "La Guardiana del Martillo",
+    "clases": [
+      "Tank",
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Poppy.png"
+  },
+  {
+    "id": "Pyke",
+    "nombre": "Pyke",
+    "titulo": "el Destripador de los Puertos",
+    "clases": [
+      "Support",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Pyke.png"
+  },
+  {
+    "id": "Qiyana",
+    "nombre": "Qiyana",
+    "titulo": "La Emperatriz de los Elementos",
+    "clases": [
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Qiyana.png"
+  },
+  {
+    "id": "Quinn",
+    "nombre": "Quinn",
+    "titulo": "Las Alas de Demacia",
+    "clases": [
+      "Marksman",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Quinn.png"
+  },
+  {
+    "id": "Rakan",
+    "nombre": "Rakan",
+    "titulo": "El Encantador",
+    "clases": [
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rakan.png"
+  },
+  {
+    "id": "Rammus",
+    "nombre": "Rammus",
+    "titulo": "El Armadurillo",
+    "clases": [
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rammus.png"
+  },
+  {
+    "id": "RekSai",
+    "nombre": "Rek'Sai",
+    "titulo": "La Amenaza Subterránea",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Furia",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/RekSai.png"
+  },
+  {
+    "id": "Rell",
+    "nombre": "Rell",
+    "titulo": "la Dama de Hierro",
+    "clases": [
+      "Tank",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rell.png"
+  },
+  {
+    "id": "Renata",
+    "nombre": "Renata Glasc",
+    "titulo": "la Baronesa Química",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Renata.png"
+  },
+  {
+    "id": "Renekton",
+    "nombre": "Renekton",
+    "titulo": "El Carnicero de las Arenas",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Furia",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Renekton.png"
+  },
+  {
+    "id": "Rengar",
+    "nombre": "Rengar",
+    "titulo": "El Acechador Orgulloso",
+    "clases": [
+      "Assassin",
+      "Fighter"
+    ],
+    "recurso": "Ferocidad",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rengar.png"
+  },
+  {
+    "id": "Riven",
+    "nombre": "Riven",
+    "titulo": "La Exiliada",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Nada",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Riven.png"
+  },
+  {
+    "id": "Rumble",
+    "nombre": "Rumble",
+    "titulo": "La Amenaza Mecánica",
+    "clases": [
+      "Fighter",
+      "Mage"
+    ],
+    "recurso": "Calor",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rumble.png"
+  },
+  {
+    "id": "Ryze",
+    "nombre": "Ryze",
+    "titulo": "El Hechicero Rúnico",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ryze.png"
+  },
+  {
+    "id": "Samira",
+    "nombre": "Samira",
+    "titulo": "la Rosa del Desierto",
+    "clases": [
+      "Marksman",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Samira.png"
+  },
+  {
+    "id": "Sejuani",
+    "nombre": "Sejuani",
+    "titulo": "La Furia del Norte",
+    "clases": [
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sejuani.png"
+  },
+  {
+    "id": "Senna",
+    "nombre": "Senna",
+    "titulo": "la Redentora",
+    "clases": [
+      "Support",
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Senna.png"
+  },
+  {
+    "id": "Seraphine",
+    "nombre": "Seraphine",
+    "titulo": "la Cantante Soñadora",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Seraphine.png"
+  },
+  {
+    "id": "Sett",
+    "nombre": "Sett",
+    "titulo": "el Jefe",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Coraje",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sett.png"
+  },
+  {
+    "id": "Shaco",
+    "nombre": "Shaco",
+    "titulo": "El Bufón Siniestro",
+    "clases": [
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Shaco.png"
+  },
+  {
+    "id": "Shen",
+    "nombre": "Shen",
+    "titulo": "El Ojo del Crepúsculo",
+    "clases": [
+      "Tank"
+    ],
+    "recurso": "Energía",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Shen.png"
+  },
+  {
+    "id": "Shyvana",
+    "nombre": "Shyvana",
+    "titulo": "la Medio Dragón",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Furia",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Shyvana.png"
+  },
+  {
+    "id": "Singed",
+    "nombre": "Singed",
+    "titulo": "El Químico Loco",
+    "clases": [
+      "Tank",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Singed.png"
+  },
+  {
+    "id": "Sion",
+    "nombre": "Sion",
+    "titulo": "El Coloso no Muerto",
+    "clases": [
+      "Tank",
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sion.png"
+  },
+  {
+    "id": "Sivir",
+    "nombre": "Sivir",
+    "titulo": "La Señora de la Batalla",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sivir.png"
+  },
+  {
+    "id": "Skarner",
+    "nombre": "Skarner",
+    "titulo": "el Soberano Primigenio",
+    "clases": [
+      "Tank",
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Skarner.png"
+  },
+  {
+    "id": "Smolder",
+    "nombre": "Smolder",
+    "titulo": "el Heredero de las Llamas",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Smolder.png"
+  },
+  {
+    "id": "Sona",
+    "nombre": "Sona",
+    "titulo": "La Virtuosa de las Cuerdas",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sona.png"
+  },
+  {
+    "id": "Soraka",
+    "nombre": "Soraka",
+    "titulo": "La Hija de las Estrellas",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Soraka.png"
+  },
+  {
+    "id": "Swain",
+    "nombre": "Swain",
+    "titulo": "el Gran General de Noxus",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Swain.png"
+  },
+  {
+    "id": "Sylas",
+    "nombre": "Sylas",
+    "titulo": "el Desencadenado",
+    "clases": [
+      "Mage",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sylas.png"
+  },
+  {
+    "id": "Syndra",
+    "nombre": "Syndra",
+    "titulo": "La Soberana Oscura",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Syndra.png"
+  },
+  {
+    "id": "TahmKench",
+    "nombre": "Tahm Kench",
+    "titulo": "El Rey del Río",
+    "clases": [
+      "Tank",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/TahmKench.png"
+  },
+  {
+    "id": "Taliyah",
+    "nombre": "Taliyah",
+    "titulo": "La Tejedora de Piedra",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Taliyah.png"
+  },
+  {
+    "id": "Talon",
+    "nombre": "Talon",
+    "titulo": "La Sombra de la Espada",
+    "clases": [
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Talon.png"
+  },
+  {
+    "id": "Taric",
+    "nombre": "Taric",
+    "titulo": "El Escudo de Valoran",
+    "clases": [
+      "Support",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Taric.png"
+  },
+  {
+    "id": "Teemo",
+    "nombre": "Teemo",
+    "titulo": "El Explorador Veloz",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Teemo.png"
+  },
+  {
+    "id": "Thresh",
+    "nombre": "Thresh",
+    "titulo": "El Carcelero Implacable",
+    "clases": [
+      "Support",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Thresh.png"
+  },
+  {
+    "id": "Tristana",
+    "nombre": "Tristana",
+    "titulo": "La Artillera Yordle",
+    "clases": [
+      "Marksman",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Tristana.png"
+  },
+  {
+    "id": "Trundle",
+    "nombre": "Trundle",
+    "titulo": "El Rey Trol",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Trundle.png"
+  },
+  {
+    "id": "Tryndamere",
+    "nombre": "Tryndamere",
+    "titulo": "El Rey Bárbaro",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Furia",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Tryndamere.png"
+  },
+  {
+    "id": "TwistedFate",
+    "nombre": "Twisted Fate",
+    "titulo": "El Maestro de las Cartas",
+    "clases": [
+      "Mage",
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/TwistedFate.png"
+  },
+  {
+    "id": "Twitch",
+    "nombre": "Twitch",
+    "titulo": "La Rata Apestada",
+    "clases": [
+      "Marksman",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Twitch.png"
+  },
+  {
+    "id": "Udyr",
+    "nombre": "Udyr",
+    "titulo": "El Caminante Espiritual",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Udyr.png"
+  },
+  {
+    "id": "Urgot",
+    "nombre": "Urgot",
+    "titulo": "la Pesadilla Mecánica",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Urgot.png"
+  },
+  {
+    "id": "Varus",
+    "nombre": "Varus",
+    "titulo": "La Flecha del Castigo",
+    "clases": [
+      "Marksman",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Varus.png"
+  },
+  {
+    "id": "Vayne",
+    "nombre": "Vayne",
+    "titulo": "La Cazadora Noctívaga",
+    "clases": [
+      "Marksman",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vayne.png"
+  },
+  {
+    "id": "Veigar",
+    "nombre": "Veigar",
+    "titulo": "El Pequeño Maestro del Mal",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Veigar.png"
+  },
+  {
+    "id": "Velkoz",
+    "nombre": "Vel'Koz",
+    "titulo": "El Ojo del Vacío",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Velkoz.png"
+  },
+  {
+    "id": "Vex",
+    "nombre": "Vex",
+    "titulo": "la Lúgubre",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vex.png"
+  },
+  {
+    "id": "Vi",
+    "nombre": "Vi",
+    "titulo": "La Agente de Piltover",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vi.png"
+  },
+  {
+    "id": "Viego",
+    "nombre": "Viego",
+    "titulo": "el Rey Arruinado",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Nada",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Viego.png"
+  },
+  {
+    "id": "Viktor",
+    "nombre": "Viktor",
+    "titulo": "el Heraldo de lo Arcano",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Viktor.png"
+  },
+  {
+    "id": "Vladimir",
+    "nombre": "Vladimir",
+    "titulo": "El Segador Carmesí",
+    "clases": [
+      "Mage",
+      "Fighter"
+    ],
+    "recurso": "Ráfaga carmesí",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vladimir.png"
+  },
+  {
+    "id": "Volibear",
+    "nombre": "Volibear",
+    "titulo": "la Tormenta Incesante",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Volibear.png"
+  },
+  {
+    "id": "Warwick",
+    "nombre": "Warwick",
+    "titulo": "la Ira Descontrolada de Zaun",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Warwick.png"
+  },
+  {
+    "id": "Xayah",
+    "nombre": "Xayah",
+    "titulo": "La Rebelde",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Xayah.png"
+  },
+  {
+    "id": "Xerath",
+    "nombre": "Xerath",
+    "titulo": "El Mago Ascendente",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Xerath.png"
+  },
+  {
+    "id": "XinZhao",
+    "nombre": "Xin Zhao",
+    "titulo": "El Senescal de Demacia",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/XinZhao.png"
+  },
+  {
+    "id": "Yasuo",
+    "nombre": "Yasuo",
+    "titulo": "La Espada sin Honor",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Flujo",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yasuo.png"
+  },
+  {
+    "id": "Yone",
+    "nombre": "Yone",
+    "titulo": "el Imperecedero",
+    "clases": [
+      "Fighter",
+      "Assassin"
+    ],
+    "recurso": "Flujo",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yone.png"
+  },
+  {
+    "id": "Yorick",
+    "nombre": "Yorick",
+    "titulo": "Pastor de las Almas Perdidas",
+    "clases": [
+      "Fighter",
+      "Tank"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yorick.png"
+  },
+  {
+    "id": "Yunara",
+    "nombre": "Yunara",
+    "titulo": "la Fe Inquebrantable",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yunara.png"
+  },
+  {
+    "id": "Yuumi",
+    "nombre": "Yuumi",
+    "titulo": "la Gata Mágica",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yuumi.png"
+  },
+  {
+    "id": "Zaahen",
+    "nombre": "Zaahen",
+    "titulo": "El Impertérrito",
+    "clases": [
+      "Fighter"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zaahen.png"
+  },
+  {
+    "id": "Zac",
+    "nombre": "Zac",
+    "titulo": "El Arma Secreta",
+    "clases": [
+      "Tank",
+      "Fighter"
+    ],
+    "recurso": "Nada",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zac.png"
+  },
+  {
+    "id": "Zed",
+    "nombre": "Zed",
+    "titulo": "El Maestro de las Sombras",
+    "clases": [
+      "Assassin"
+    ],
+    "recurso": "Energía",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zed.png"
+  },
+  {
+    "id": "Zeri",
+    "nombre": "Zeri",
+    "titulo": "La Chispa de Zaun",
+    "clases": [
+      "Marksman"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zeri.png"
+  },
+  {
+    "id": "Ziggs",
+    "nombre": "Ziggs",
+    "titulo": "El Experto en Hexplosivos",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ziggs.png"
+  },
+  {
+    "id": "Zilean",
+    "nombre": "Zilean",
+    "titulo": "El Guardián del Tiempo",
+    "clases": [
+      "Support",
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zilean.png"
+  },
+  {
+    "id": "Zoe",
+    "nombre": "Zoe",
+    "titulo": "el Aspecto del Crepúsculo",
+    "clases": [
+      "Mage"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zoe.png"
+  },
+  {
+    "id": "Zyra",
+    "nombre": "Zyra",
+    "titulo": "La Dama de Espinas",
+    "clases": [
+      "Mage",
+      "Support"
+    ],
+    "recurso": "Maná",
+    "imagen": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zyra.png"
+  }
+]
